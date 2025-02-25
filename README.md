@@ -109,8 +109,9 @@ Contributions are welcome! Follow these steps to contribute:
 
 ---
 
-## 🌟 Acknowledgments  
-- **🎓 Victor Sir**: For invaluable guidance and support throughout the project.  
+## 🤝 **Acknowledgments**
+Special thanks to the medical and AI communities for their valuable datasets and research.  
+Inspirational guidance from **Dr. Victor Ikechukwu**. Explore their work: [Dr. Victor Ikechukwu](https://github.com/Victor-Ikechukwu). 
 
 ---
 
