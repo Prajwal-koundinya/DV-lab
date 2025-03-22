@@ -39,7 +39,7 @@ pip install opencv-python scikit-image pillow matplotlib
 ### ▶️ How to Run  
 1. **Clone the repository**:  
    ```bash
-   git clone https://github.com/PrajwalKoundinya/image-augmentation-contrast.git
+   git clone https://github.com/Prajwal-koundinya/image-augmentation-contrast.git
    ```  
 2. **Navigate to the project directory**:  
    ```bash
