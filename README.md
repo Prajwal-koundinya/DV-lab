@@ -122,7 +122,7 @@ This project is licensed under the **MIT License**. See the LICENSE file for det
 
 ## 📧 Contact  
 For any queries or suggestions, feel free to reach out:  
-- **📧 Email**: prajwalkoundinya24@gmail.com  
+- **📧 Email**: prajwalkowndinya@gmail.com  
 - **💼 LinkedIn**: [Prajwal Koundinya](https://www.linkedin.com/in/prajwal-koundinya)  
 - **💻 GitHub**: [PrajwalKoundinya](https://github.com/Prajwal-koundinya)  
 
