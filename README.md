@@ -90,25 +90,6 @@ pip install opencv-python scikit-image pillow matplotlib
 
 ---
 
-## 🤝 Contributing  
-Contributions are welcome! Follow these steps to contribute:  
-1. **Fork the repository**.  
-2. **Create a new branch**:  
-   ```bash
-   git checkout -b feature-name
-   ```  
-3. **Commit your changes**:  
-   ```bash
-   git commit -m "Add feature description"
-   ```  
-4. **Push to the branch**:  
-   ```bash
-   git push origin feature-name
-   ```  
-5. **Submit a pull request**.  
-
----
-
 ## 🤝 **Acknowledgments**
 Special thanks to the medical and AI communities for their valuable datasets and research.  
 Inspirational guidance from **Dr. Victor Ikechukwu**. Explore their work: [Dr. Victor Ikechukwu](https://github.com/Victor-Ikechukwu). 
